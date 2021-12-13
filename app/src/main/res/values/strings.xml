@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RPS Game Chapter 5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bermain_suit_melawan_sesama_pemain">Bermain suit melawan \n sesama pemain</string>
+    <string name="bermain_suit_melawan_komputer">Bermain suit melawan \n komputer</string>
+    <string name="tuliskan_namamu_di_bawah">Tuliskan namamu di bawah</string>
+    <string name="pilih_lawanmu">PILIH LAWANMU</string>
+    <string name="batu">batu</string>
+    <string name="kertas">kertas</string>
+    <string name="gunting">gunting</string>
+    <string name="vs">vs</string>
+    <string name="com">com</string>
+    <string name="pemain_2">Pemain 2</string>
+    <string name="cpu">CPU</string>
+    <string name="draw">Draw</string>
+    <string name="pemain1menang">Pemain 1 MENANG!</string>
+    <string name="pemain2menang">Pemain 2 MENANG!</string>
+    <string name="hasil_permainan">Hasil Permainan</string>
+    <string name="main_lagi">Main Lagi</string>
+    <string name="kembali_ke_menu">Kembali Ke Menu</string>
+</resources>
